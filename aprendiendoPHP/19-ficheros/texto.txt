@@ -1,0 +1,4 @@
+hola soy un archivo de texto
+hi
+jo
+texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>texto desde php <br>
